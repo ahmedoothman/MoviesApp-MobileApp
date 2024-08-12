@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "MoviesApp",
+    "slug": "MoviesApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon-c.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-c.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#156582"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon-c.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ahmedooothman.ToDoList"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f68d531a-4992-443d-8b40-721b899eee14"
+      }
+    }
+  }
+}
