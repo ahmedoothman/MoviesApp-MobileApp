@@ -74,7 +74,7 @@ export default function HomeScreen() {
           onDismiss={() => setMenuVisible(false)}
           anchor={
             <Button onPress={() => setMenuVisible(true)} mode='text'>
-              <Icon name='filter' size={20} />
+              <Icon name='filter' size={20} color={'#2f3640'} />
             </Button>
           }
         >
